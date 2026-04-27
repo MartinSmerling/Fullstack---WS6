@@ -1,1 +1,3 @@
 # Fullstack---WS6
+In this assignment, a full stack blog application was implemented using a Node.js and Express backend together with a React frontend. The backend uses MongoDB as the database and exposes a REST API that supports full CRUD functionality (create, read, update and delete). Basic model-level validation was implemented for fields such as the post title and content.
+The frontend was built with React using Vite as the development environment. React Router is used for navigation, and the application includes views for listing blog posts, viewing a single post, creating a new post, editing an existing post and deleting posts. The frontend communicates with the backend using fetch requests.
